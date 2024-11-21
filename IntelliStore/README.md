@@ -45,8 +45,8 @@
 
 ## Setup Instructions
 1. **Clone the Repository**:
-   git clone https://github.com/Sahil-Gupte/IntelliStore.git
-   cd IntelliStore
+   - git clone https://github.com/Sahil-Gupte/IntelliStore.git
+   - cd IntelliStore
 2. **Set Up Database**:
    - Import resources/database/IntelliStore.sql into your MySQL server.
    - Update the database credentials in DatabaseConnection.java.
